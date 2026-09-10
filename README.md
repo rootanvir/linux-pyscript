@@ -1,1 +1,1 @@
-@import "main.py" {code_block=true class="line-numbers"}
+<iframe src="./main.py"></iframe>
